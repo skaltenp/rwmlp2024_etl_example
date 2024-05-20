@@ -2,6 +2,7 @@
 
 ## Installation
 The following python packages are needed:
+Download the files from [ASHRAE](https://www.kaggle.com/c/ashrae-energy-prediction/data). And copy them into the ``data``-folder.
 
 ```
 pip install --upgrade numpy pandas SQLAlchemy google-cloud-storage google-cloud-pubsub
